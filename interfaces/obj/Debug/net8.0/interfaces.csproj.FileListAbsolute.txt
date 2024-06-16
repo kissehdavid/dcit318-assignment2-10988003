@@ -1,0 +1,15 @@
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/interfaces/bin/Debug/net8.0/interfaces
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/interfaces/bin/Debug/net8.0/interfaces.deps.json
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/interfaces/bin/Debug/net8.0/interfaces.runtimeconfig.json
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/interfaces/bin/Debug/net8.0/interfaces.dll
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/interfaces/bin/Debug/net8.0/interfaces.pdb
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/interfaces/obj/Debug/net8.0/interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/interfaces/obj/Debug/net8.0/interfaces.AssemblyInfoInputs.cache
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/interfaces/obj/Debug/net8.0/interfaces.AssemblyInfo.cs
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/interfaces/obj/Debug/net8.0/interfaces.csproj.CoreCompileInputs.cache
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/interfaces/obj/Debug/net8.0/interfaces.sourcelink.json
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/interfaces/obj/Debug/net8.0/interfaces.dll
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/interfaces/obj/Debug/net8.0/refint/interfaces.dll
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/interfaces/obj/Debug/net8.0/interfaces.pdb
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/interfaces/obj/Debug/net8.0/interfaces.genruntimeconfig.cache
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/interfaces/obj/Debug/net8.0/ref/interfaces.dll
