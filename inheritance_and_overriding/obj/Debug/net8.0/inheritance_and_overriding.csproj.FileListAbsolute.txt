@@ -1,0 +1,14 @@
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/inheritance_and_overriding/bin/Debug/net8.0/inheritance_and_overriding
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/inheritance_and_overriding/bin/Debug/net8.0/inheritance_and_overriding.deps.json
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/inheritance_and_overriding/bin/Debug/net8.0/inheritance_and_overriding.runtimeconfig.json
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/inheritance_and_overriding/bin/Debug/net8.0/inheritance_and_overriding.dll
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/inheritance_and_overriding/bin/Debug/net8.0/inheritance_and_overriding.pdb
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/inheritance_and_overriding/obj/Debug/net8.0/inheritance_and_overriding.GeneratedMSBuildEditorConfig.editorconfig
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/inheritance_and_overriding/obj/Debug/net8.0/inheritance_and_overriding.AssemblyInfoInputs.cache
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/inheritance_and_overriding/obj/Debug/net8.0/inheritance_and_overriding.AssemblyInfo.cs
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/inheritance_and_overriding/obj/Debug/net8.0/inheritance_and_overriding.csproj.CoreCompileInputs.cache
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/inheritance_and_overriding/obj/Debug/net8.0/inheritance_and_overriding.dll
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/inheritance_and_overriding/obj/Debug/net8.0/refint/inheritance_and_overriding.dll
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/inheritance_and_overriding/obj/Debug/net8.0/inheritance_and_overriding.pdb
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/inheritance_and_overriding/obj/Debug/net8.0/inheritance_and_overriding.genruntimeconfig.cache
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/inheritance_and_overriding/obj/Debug/net8.0/ref/inheritance_and_overriding.dll
