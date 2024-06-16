@@ -12,3 +12,4 @@
 /home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/inheritance_and_overriding/obj/Debug/net8.0/inheritance_and_overriding.pdb
 /home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/inheritance_and_overriding/obj/Debug/net8.0/inheritance_and_overriding.genruntimeconfig.cache
 /home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/inheritance_and_overriding/obj/Debug/net8.0/ref/inheritance_and_overriding.dll
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/inheritance_and_overriding/obj/Debug/net8.0/inheritance_and_overriding.sourcelink.json

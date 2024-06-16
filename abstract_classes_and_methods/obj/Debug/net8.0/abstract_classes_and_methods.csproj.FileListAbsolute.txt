@@ -1,0 +1,15 @@
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/abstract_classes_and_methods/bin/Debug/net8.0/abstract_classes_and_methods
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/abstract_classes_and_methods/bin/Debug/net8.0/abstract_classes_and_methods.deps.json
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/abstract_classes_and_methods/bin/Debug/net8.0/abstract_classes_and_methods.runtimeconfig.json
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/abstract_classes_and_methods/bin/Debug/net8.0/abstract_classes_and_methods.dll
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/abstract_classes_and_methods/bin/Debug/net8.0/abstract_classes_and_methods.pdb
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/abstract_classes_and_methods/obj/Debug/net8.0/abstract_classes_and_methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/abstract_classes_and_methods/obj/Debug/net8.0/abstract_classes_and_methods.AssemblyInfoInputs.cache
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/abstract_classes_and_methods/obj/Debug/net8.0/abstract_classes_and_methods.AssemblyInfo.cs
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/abstract_classes_and_methods/obj/Debug/net8.0/abstract_classes_and_methods.csproj.CoreCompileInputs.cache
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/abstract_classes_and_methods/obj/Debug/net8.0/abstract_classes_and_methods.sourcelink.json
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/abstract_classes_and_methods/obj/Debug/net8.0/abstract_classes_and_methods.dll
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/abstract_classes_and_methods/obj/Debug/net8.0/refint/abstract_classes_and_methods.dll
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/abstract_classes_and_methods/obj/Debug/net8.0/abstract_classes_and_methods.pdb
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/abstract_classes_and_methods/obj/Debug/net8.0/abstract_classes_and_methods.genruntimeconfig.cache
+/home/khiss_dhave/RiderProjects/dcit318-assignment2-10988003/abstract_classes_and_methods/obj/Debug/net8.0/ref/abstract_classes_and_methods.dll
